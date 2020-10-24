@@ -15,7 +15,7 @@ int main() {
         lli n3 = n/3; 
         lli n5 = n/5;
         lli n15 = n/15;
-        lli sum3 = ((n3)*(n3+1))/2;
+        lli sum3 = ((n13)*(n3+1))/2;
         lli sum5 = ((n5)*(n5+1))/2;
         lli sum15 = ((n15)*(n15+1))/2;
         lli ans3 = 3*sum3;
